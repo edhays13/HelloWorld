@@ -26,3 +26,6 @@
 *.exe
 *.out
 *.app
+
+helloworld
+*.DS_Store
